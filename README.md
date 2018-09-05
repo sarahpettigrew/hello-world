@@ -1,5 +1,4 @@
 # hello-world
-Guided first repository
 
 Hello everyone!
 
